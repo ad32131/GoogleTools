@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "603197845653",
+    "firebase_url": "https://tools2-f82a8.firebaseio.com",
+    "project_id": "tools2-f82a8",
+    "storage_bucket": "tools2-f82a8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:603197845653:android:c30d9e0fc64fbe00ff2b9c",
+        "android_client_info": {
+          "package_name": "com.example.googletools"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "603197845653-cc2u98gr8ibauhiqra38a1f2pv9l4t3u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAV8_HfeW9MuUXxh2qXjE10_N2Cxg-SlSQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "603197845653-cc2u98gr8ibauhiqra38a1f2pv9l4t3u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
